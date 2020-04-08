@@ -63,3 +63,12 @@ resource "google_compute_instance" "default" {
 terraform init
 terraform apply
 ```
+
+**Deploy Cloud Run on k8s Cluster**
+```
+gcloud container clusters update \
+     tf-gke-k8s-this-is-a-new-cluster	 \
+    --update-addons=CloudRun=ENABLED,HttpLoadBalancing=ENABLED \
+    --zone=us-west1-b	
+    
+```
