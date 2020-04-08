@@ -15,7 +15,7 @@ https://learn.hashicorp.com/terraform?track=gcp#gcp
 
 
 
-## Terraform create a gcp instance    
+## Lab01  Terraform create a gcp instance    
 
 https://www.qwiklabs.com/focuses/1208?parent=catalog
 
@@ -56,3 +56,10 @@ resource "google_compute_instance" "default" {
 
 ```
 
+
+##  Lab02  Create a k8s cluster 
+
+```
+terraform init
+terraform apply
+```
