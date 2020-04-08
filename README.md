@@ -22,6 +22,9 @@ terraform show
 
 **instance.tf**
 
+PROJECT_ID should be REPLACED by THE REAL PROJECT -  ID
+
+
 ```
 resource "google_compute_instance" "default" {
   project      = "<PROJECT_ID>"
