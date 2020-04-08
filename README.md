@@ -13,6 +13,8 @@ https://learn.hashicorp.com/terraform
 https://learn.hashicorp.com/terraform?track=gcp#gcp  
 
 
+##  Terraform-google-examples  
+https://github.com/GoogleCloudPlatform/terraform-google-examples   
 
 
 ## Lab01  Terraform create a gcp instance    
