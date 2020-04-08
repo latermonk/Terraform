@@ -5,17 +5,17 @@
 https://www.terraform.io/intro/index.html    
 
 
-**Terraform Learn**
+**Terraform Learn**    
 https://learn.hashicorp.com/terraform
 
 
-## Get Started - Google Cloud
+## Get Started - Google Cloud     
 https://learn.hashicorp.com/terraform?track=gcp#gcp  
 
 
 
 
-## Terraform create a gcp instance
+## Terraform create a gcp instance    
 
 https://www.qwiklabs.com/focuses/1208?parent=catalog
 
