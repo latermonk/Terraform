@@ -7,6 +7,19 @@ https://www.terraform.io/intro/index.html
 
 
 ## Terraform create a gcp instance
+
+https://www.qwiklabs.com/focuses/1208?parent=catalog
+
+```
+terraform init
+terraform plan
+terraform apply
+
+terraform show
+
+
+```
+
 ```
 resource "google_compute_instance" "default" {
   project      = "<PROJECT_ID>"
