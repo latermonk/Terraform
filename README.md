@@ -5,6 +5,15 @@
 https://www.terraform.io/intro/index.html    
 
 
+**Terraform Learn**
+https://learn.hashicorp.com/terraform
+
+
+## Get Started - Google Cloud
+https://learn.hashicorp.com/terraform?track=gcp#gcp  
+
+
+
 
 ## Terraform create a gcp instance
 
