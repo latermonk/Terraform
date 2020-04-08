@@ -20,6 +20,8 @@ terraform show
 
 ```
 
+**instance.tf**
+
 ```
 resource "google_compute_instance" "default" {
   project      = "<PROJECT_ID>"
