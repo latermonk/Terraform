@@ -74,3 +74,11 @@ gcloud container clusters update \
     --zone=us-west1-b	
     
 ```
+
+
+
+## Lab03  Terraform-google-nat-gateway
+
+https://github.com/GoogleCloudPlatform/terraform-google-nat-gateway/tree/master/examples
+
+
